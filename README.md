@@ -8,10 +8,12 @@ soft voting and stacking
 Achieved best performance with 86% accuracy and 0.8324 F1 score using Bayesian-optimized RoBERTa; deployed the
 models on Hugging Face, while performing batch inference on GPU
 
+Models on Profile: https://huggingface.co/VridhiJain
+
 ## Demo
 
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/b25ae767-0759-4867-a955-f5a000eaed52" type="video/mp4">
-</video>
 
-Models on Profile: https://huggingface.co/VridhiJain
+https://github.com/user-attachments/assets/ef699247-391a-4b00-a0da-2a8b4071f4ca
+
+
+
